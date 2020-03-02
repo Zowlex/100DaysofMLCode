@@ -26,7 +26,8 @@ Timeline (Day1 - Day7): 25 Nov 2019 - 02 Dec 2019
 - Data Analysis:
   - Introduction
   - Data Analysis Process overview
-- Links:
+- Links: 
+  - [ex1 notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/Coursera%20ML%20course/machine-learning-ex1/ex1/ex1.ipynb)
 
 ## Week2-Andrew Ng's ML course on Coursera/Udacity's Data Analysis Track
 Timeline (Day8 - Day15): 03 Dec 2019 - 09 Dec 2019
