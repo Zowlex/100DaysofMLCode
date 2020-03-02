@@ -66,6 +66,7 @@ Timeline (Day16 - Day23): 10 Dec 2019 - 17 Dec 2019
   - Basic SQL for DA
   - Hackerrank SQL challenges
 - Links:
+  - [Matlab's onramp cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Matlab_octave.pdf)
 
 ## Week4-Andrew Ng's ML course on Coursera/Udacity's Data Analysis Track
 Timeline (Day24 - Day31): 18 Dec 2019 - 25 Dec 2019
@@ -87,6 +88,7 @@ Timeline (Day32 - Day39): 26 Dec 2019 - 03 Jan 2020
   - Lab1: Query a digital music store (Part I) 
   - Milestone 1 certificate
 - Links:
+  - [Milestone 1 cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Milestone1.pdf)
 
 ## Week6-Andrew Ng's ML course on Coursera/Udacity's Data Analysis Track
 Timeline (Day40 - Day47): 04 Jan 2020 - 11 Jan 2020
@@ -170,6 +172,7 @@ Timeline: (Day 80 - Day 87): 13 Feb 2020 - 20 Feb 2020
   - Lab2: Query a digital music store (Part II)
   - Milestone 2 certificate
 - Links: 
+  - [Data Analysis track certificate](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/DataAnalysis.pdf)
 
 ## Week12-Kaggle courses/Hands-on machine learning book/Machine Learning with python
 Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
@@ -184,6 +187,8 @@ Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
 - Data Analysis:
   - Started Hackerrank's 10 Days of statistics 
 - Links: 
+  - [Kaggle's python micro-course cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Fares%20Lassoued%20-%20Python.png)
+  - [Kaggle's Intro to ML micro-course cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Fares%20Lassoued%20-%20Intro%20to%20Machine%20Learning.png)
 
 ## Day96 (29 Feb 2020): 
 - ML:
