@@ -187,6 +187,7 @@ Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
 - Data Analysis:
   - Started Hackerrank's 10 Days of statistics 
 - Links: 
+  - [End-to-end ml project notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/End-to-end%20ML%20project/housing_pred.ipynb)
   - [Kaggle's python micro-course cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Fares%20Lassoued%20-%20Python.png)
   - [Kaggle's Intro to ML micro-course cert](https://github.com/Zowlex/100DaysofMLCode/blob/master/Certifications/Fares%20Lassoued%20-%20Intro%20to%20Machine%20Learning.png)
 
