@@ -1,6 +1,13 @@
 # 100DaysofMLCode (98% Complete)
-I made this repository to track all my 100 Days of #100DaysOfMLCode challenge that I took
-________________________________________________________________________________________________
+I made this repository to track all my 100 Days of #100DaysOfMLCode challenge that I took. I'm still working on this repo and I'll keep updating it even after the 100 days.
+## Learning resources:
+  - [Andrew NG's Machine learning course on Coursera](https://www.coursera.org/learn/machine-learning/)
+  - [Data Analysis Track](https://www.arabcoders.ae/enroll)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?keywords=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow%3A+Concepts%2C+Tools%2C+and+Techniques+to+Build+Intelligent+Systems&qid=1583140484&s=books&sr=1-1)
+  - [Kaggle courses](https://www.kaggle.com/learn/overview)
+  - [Secure and Private AI course](https://classroom.udacity.com/courses/ud185) 
+  - [Hackerrank](https://www.hackerrank.com)
+
 ## Week1-Andrew Ng's ML course on Coursera/Udacity's Data Analysis Track
 Timeline (Day1 - Day7): 25 Nov 2019 - 02 Dec 2019
 - ML:
@@ -156,7 +163,7 @@ Timeline: (Day 80 - Day 87): 13 Feb 2020 - 20 Feb 2020
     - Kaggle's python micro-course certificate
   - Kaggle Days meetup (Ariana, Tunisia) and first time competing in kaggle (solo):
     - Wine price prediction (result: 18/32)
-  - Completed chapter I of [Hands-on ML](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)  book and did exercices to test what I learned so far
+  - Completed chapter I of Hands-on ML book and did exercices to test what I learned so far
 - Data Analysis:
   - Lab2: Query a digital music store (Part II)
   - Milestone 2 certificate
