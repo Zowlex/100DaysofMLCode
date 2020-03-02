@@ -5,6 +5,7 @@ I made this repository to track all my 100 Days of #100DaysOfMLCode challenge th
   - [Data Analysis Track](https://www.arabcoders.ae/enroll)
   - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?keywords=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow%3A+Concepts%2C+Tools%2C+and+Techniques+to+Build+Intelligent+Systems&qid=1583140484&s=books&sr=1-1)
   - [Kaggle courses](https://www.kaggle.com/learn/overview)
+  - [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
   - [Secure and Private AI course](https://classroom.udacity.com/courses/ud185) 
   - [Hackerrank](https://www.hackerrank.com)
 
@@ -169,9 +170,12 @@ Timeline: (Day 80 - Day 87): 13 Feb 2020 - 20 Feb 2020
   - Milestone 2 certificate
 - Links: 
 
-## Week12-Kaggle courses/Hands-on machine learning book
+## Week12-Kaggle courses/Hands-on machine learning book/Machine Learning with python
 Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
 - ML: 
+  - Machine Learning with python:
+    - Introduction
+    - Regression
   - Kaggle's micro-course: Intro to machine learning:
     - Exercice: Machine learning competitions (default kernel)
   - Chapter II of ML book: 
