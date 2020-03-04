@@ -221,9 +221,10 @@ Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
     
 ## Day 100 (04 Mar 2020):
   -ML:
-    - Kaggle's Intemediate ML course:
+  - with python course week3:
+      - Classification
+  - Kaggle's Intemediate ML course:
       - Handling categorical values + applying it on comp kernel and submitting
-    - Made Coursera's ML ex2 [notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/Coursera%20ML%20course/machine-learning-ex2/ex2/ex2.ipynb)
-    - ML with python course week3:
-      - Classification 
+  - Made Coursera's ML ex2 [notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/Coursera%20ML%20course/machine-learning-ex2/ex2/ex2.ipynb)
+     
       
