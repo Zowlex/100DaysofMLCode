@@ -1,4 +1,4 @@
-# 100DaysofMLCode (98% Complete)
+# 100DaysofMLCode (100% Complete)
 I made this repository to track all my 100 Days of #100DaysOfMLCode challenge that I took. I'm still working on this repo and I'll keep updating it even after the 100 days.
 ## Learning resources:
   - [Andrew NG's Machine learning course on Coursera](https://www.coursera.org/learn/machine-learning/)
