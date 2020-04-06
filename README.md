@@ -1,4 +1,4 @@
-# 100DaysofMLCode (98% Complete)
+# 100DaysofMLCode (100% Complete)
 I made this repository to track all my 100 Days of #100DaysOfMLCode challenge that I took. I'm still working on this repo and I'll keep updating it even after the 100 days.
 ## Learning resources:
   - [Andrew NG's Machine learning course on Coursera](https://www.coursera.org/learn/machine-learning/)
@@ -51,6 +51,7 @@ Timeline (Day8 - Day15): 03 Dec 2019 - 09 Dec 2019
     - Introduction to Summary statistics
     - Notation and random variables
 - Links:
+  - [ex2 notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/Coursera%20ML%20course/machine-learning-ex2/ex2/ex2.ipynb)
 
 ## Week3-Andrew Ng's ML course on Coursera/Udacity's Data Analysis Track
 Timeline (Day16 - Day23): 10 Dec 2019 - 17 Dec 2019
@@ -213,3 +214,17 @@ Timeline: (Day 88 - Day 95): 21 Feb 2020 -  28 Feb 2020
 - This was inspired from these two amazing sources:
   - [Hith100's repo](https://github.com/hithesh111/Hith100)
   - [The golden one! This was like a treasure for me](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
+
+## Day 99 (03 Mar 2020):
+  - ML:
+    - Improved My score for [Housing comp](https://www.kaggle.com/zowlex) and jumped to 12kth position to 4061 th position by using cross validation + handling missing values(imputation)
+    
+## Day 100 (04 Mar 2020):
+  - ML:
+    - with python course week3:
+        - Classification
+    - Kaggle's Intemediate ML course:
+        - Handling categorical values + applying it on comp kernel and submitting
+    - Made Coursera's ML ex2 [notebook](https://github.com/Zowlex/100DaysofMLCode/blob/master/Coursera%20ML%20course/machine-learning-ex2/ex2/ex2.ipynb)
+     
+      
